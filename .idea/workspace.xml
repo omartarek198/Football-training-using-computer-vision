@@ -27,7 +27,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.Creating Dataset">
+    <configuration name="Creating Dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Football-training-using-computer-vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Creating Dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Extractor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Football-training-using-computer-vision" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,6 +112,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="filtering data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Football-training-using-computer-vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\AppData\Local\Programs\Python\Python310\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filtering data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Football-training-using-computer-vision" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,9 +158,13 @@
       <item itemvalue="Python.main" />
       <item itemvalue="Python.LiveTimeExtraction" />
       <item itemvalue="Python.Extractor" />
+      <item itemvalue="Python.filtering data" />
+      <item itemvalue="Python.Creating Dataset" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Creating Dataset" />
+        <item itemvalue="Python.filtering data" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.Extractor" />
         <item itemvalue="Python.LiveTimeExtraction" />
@@ -139,6 +185,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="415" y="2" key="#Creating_Dataset" timestamp="1658502556673">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="415" y="2" key="#Creating_Dataset/0.0.1376.774@0.0.1376.774" timestamp="1658502556673" />
     <state x="415" y="2" key="#Extractor" timestamp="1658497818178">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
@@ -147,29 +197,33 @@
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="415" y="2" key="#LiveTimeExtraction/0.0.1376.774@0.0.1376.774" timestamp="1658495893122" />
-    <state x="143" y="42" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1658495883892">
+    <state x="143" y="42" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1658502659844">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="143" y="42" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1376.774@0.0.1376.774" timestamp="1658495883892" />
+    <state x="143" y="42" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1376.774@0.0.1376.774" timestamp="1658502659844" />
+    <state x="415" y="2" key="#filtering_data" timestamp="1658500751000">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="415" y="2" key="#filtering_data/0.0.1376.774@0.0.1376.774" timestamp="1658500751000" />
     <state x="415" y="2" key="#main" timestamp="1658494862515">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="415" y="2" key="#main/0.0.1376.774@0.0.1376.774" timestamp="1658494862515" />
-    <state width="1375" height="201" key="GridCell.Tab.0.bottom" timestamp="1658498522904">
+    <state width="1375" height="200" key="GridCell.Tab.0.bottom" timestamp="1658503094754">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1375" height="201" key="GridCell.Tab.0.bottom/0.0.1376.774@0.0.1376.774" timestamp="1658498522904" />
-    <state width="1375" height="201" key="GridCell.Tab.0.center" timestamp="1658498522904">
+    <state width="1375" height="200" key="GridCell.Tab.0.bottom/0.0.1376.774@0.0.1376.774" timestamp="1658503094754" />
+    <state width="1375" height="200" key="GridCell.Tab.0.center" timestamp="1658503094754">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1375" height="201" key="GridCell.Tab.0.center/0.0.1376.774@0.0.1376.774" timestamp="1658498522904" />
-    <state width="1375" height="201" key="GridCell.Tab.0.left" timestamp="1658498522904">
+    <state width="1375" height="200" key="GridCell.Tab.0.center/0.0.1376.774@0.0.1376.774" timestamp="1658503094754" />
+    <state width="1375" height="200" key="GridCell.Tab.0.left" timestamp="1658503094753">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1375" height="201" key="GridCell.Tab.0.left/0.0.1376.774@0.0.1376.774" timestamp="1658498522904" />
-    <state width="1375" height="201" key="GridCell.Tab.0.right" timestamp="1658498522904">
+    <state width="1375" height="200" key="GridCell.Tab.0.left/0.0.1376.774@0.0.1376.774" timestamp="1658503094753" />
+    <state width="1375" height="200" key="GridCell.Tab.0.right" timestamp="1658503094754">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1375" height="201" key="GridCell.Tab.0.right/0.0.1376.774@0.0.1376.774" timestamp="1658498522904" />
+    <state width="1375" height="200" key="GridCell.Tab.0.right/0.0.1376.774@0.0.1376.774" timestamp="1658503094754" />
   </component>
 </project>
