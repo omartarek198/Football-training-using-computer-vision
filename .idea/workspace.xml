@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b82a9b21-a709-49ec-a0fe-5cef6f0ef8ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2CIdRRzqVG63AomPthbtxHeltQh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Extractor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Football-training-using-computer-vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extractor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LiveTimeExtraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Football-training-using-computer-vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LiveTimeExtraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Football-training-using-computer-vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Football-training-using-computer-vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.LiveTimeExtraction" />
+      <item itemvalue="Python.Extractor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Extractor" />
+        <item itemvalue="Python.LiveTimeExtraction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b82a9b21-a709-49ec-a0fe-5cef6f0ef8ba" name="Default Changelist" comment="" />
+      <created>1658494024347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658494024347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="2" key="#Extractor" timestamp="1658497818178">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="415" y="2" key="#Extractor/0.0.1376.774@0.0.1376.774" timestamp="1658497818178" />
+    <state x="415" y="2" key="#LiveTimeExtraction" timestamp="1658495893122">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="415" y="2" key="#LiveTimeExtraction/0.0.1376.774@0.0.1376.774" timestamp="1658495893122" />
+    <state x="143" y="42" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1658495883892">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="143" y="42" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1376.774@0.0.1376.774" timestamp="1658495883892" />
+    <state x="415" y="2" key="#main" timestamp="1658494862515">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="415" y="2" key="#main/0.0.1376.774@0.0.1376.774" timestamp="1658494862515" />
+    <state width="1375" height="201" key="GridCell.Tab.0.bottom" timestamp="1658498116415">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1375" height="201" key="GridCell.Tab.0.bottom/0.0.1376.774@0.0.1376.774" timestamp="1658498116415" />
+    <state width="1375" height="201" key="GridCell.Tab.0.center" timestamp="1658498116415">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1375" height="201" key="GridCell.Tab.0.center/0.0.1376.774@0.0.1376.774" timestamp="1658498116415" />
+    <state width="1375" height="201" key="GridCell.Tab.0.left" timestamp="1658498116415">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1375" height="201" key="GridCell.Tab.0.left/0.0.1376.774@0.0.1376.774" timestamp="1658498116415" />
+    <state width="1375" height="201" key="GridCell.Tab.0.right" timestamp="1658498116415">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1375" height="201" key="GridCell.Tab.0.right/0.0.1376.774@0.0.1376.774" timestamp="1658498116415" />
+  </component>
+</project>
