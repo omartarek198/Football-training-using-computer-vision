@@ -26,5 +26,5 @@ class CExtractor:
 
     def GetLandMarks(self,image):
         pass
-    
+
 
